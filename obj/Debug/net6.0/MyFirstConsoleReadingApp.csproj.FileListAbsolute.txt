@@ -1,0 +1,15 @@
+E:\Projects\MyFirstConsoleReadingApp\bin\Debug\net6.0\MyFirstConsoleReadingApp.exe
+E:\Projects\MyFirstConsoleReadingApp\bin\Debug\net6.0\MyFirstConsoleReadingApp.deps.json
+E:\Projects\MyFirstConsoleReadingApp\bin\Debug\net6.0\MyFirstConsoleReadingApp.runtimeconfig.json
+E:\Projects\MyFirstConsoleReadingApp\bin\Debug\net6.0\MyFirstConsoleReadingApp.dll
+E:\Projects\MyFirstConsoleReadingApp\bin\Debug\net6.0\MyFirstConsoleReadingApp.pdb
+E:\Projects\MyFirstConsoleReadingApp\obj\Debug\net6.0\MyFirstConsoleReadingApp.csproj.AssemblyReference.cache
+E:\Projects\MyFirstConsoleReadingApp\obj\Debug\net6.0\MyFirstConsoleReadingApp.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projects\MyFirstConsoleReadingApp\obj\Debug\net6.0\MyFirstConsoleReadingApp.AssemblyInfoInputs.cache
+E:\Projects\MyFirstConsoleReadingApp\obj\Debug\net6.0\MyFirstConsoleReadingApp.AssemblyInfo.cs
+E:\Projects\MyFirstConsoleReadingApp\obj\Debug\net6.0\MyFirstConsoleReadingApp.csproj.CoreCompileInputs.cache
+E:\Projects\MyFirstConsoleReadingApp\obj\Debug\net6.0\MyFirstConsoleReadingApp.dll
+E:\Projects\MyFirstConsoleReadingApp\obj\Debug\net6.0\refint\MyFirstConsoleReadingApp.dll
+E:\Projects\MyFirstConsoleReadingApp\obj\Debug\net6.0\MyFirstConsoleReadingApp.pdb
+E:\Projects\MyFirstConsoleReadingApp\obj\Debug\net6.0\MyFirstConsoleReadingApp.genruntimeconfig.cache
+E:\Projects\MyFirstConsoleReadingApp\obj\Debug\net6.0\ref\MyFirstConsoleReadingApp.dll
